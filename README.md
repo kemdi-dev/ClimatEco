@@ -1,2 +1,2 @@
-# capstone-project
-Final year project - with Lex, Lu, and Anas
+# ClimateEco
+EECS 4441 Projet with Vanessa and Jieyi

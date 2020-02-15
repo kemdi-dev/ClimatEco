@@ -1,2 +1,2 @@
-# ClimateEco
-EECS 4441 Projet with Vanessa and Jieyi
+# ClimatEco
+EECS 4441 Project with Vanessa and Jieyi
